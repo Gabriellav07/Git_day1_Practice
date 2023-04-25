@@ -1,7 +1,5 @@
-<<<<<<< HEAD
+
 ghd\ff
 vfv
-vfvf
-=======
 
-
+Pasha deleted something
